@@ -14,6 +14,8 @@
 ![Godot 4](https://img.shields.io/badge/Godot_4.x-478CBF?logo=godotengine&logoColor=white)
 ![Puzzle Platformer](https://img.shields.io/badge/Genre-Puzzle_Platformer-orange)
 ![UM Game Jam 2026](https://img.shields.io/badge/Game_Jam-UM_Game_Jam_2026-red)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Download Game](https://img.shields.io/badge/Download_Game-itch.io-FF2449?logo=itchdotio&logoColor=white)](https://qwerty2234.itch.io/don-lost-ctrl)
 
 </div>
 
